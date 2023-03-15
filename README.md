@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm John Andreopoulos</h1>
-<h3 align="center">As an experienced programmer with a background in designing and developing wireframes, I have a strong understanding of the building blocks required to create successful projects. With a particular interest in artificial intelligence and its potential for transforming the way we approach problem-solving, I am committed to leveraging my skills and knowledge to help make the world a better place. I am passionate about creating meaningful change through my work and look forward to contributing my expertise to large companies in pursuit of this goal.</h3>
+<h5 align="justify">As a full-stack developer with expertise in JavaScript, Node.js, HTML, and CSS, I am constantly seeking new challenges and opportunities to grow my skillset. In addition to my strong foundation in these technologies, I am also proficient in Java and constantly learning more languages to further my capabilities as a developer.
 
+In addition to my passion for coding, I am deeply interested in artificial intelligence and constantly seek out opportunities to delve deeper into this field. I am driven to not only improve my own understanding of AI, but to also use my skills and knowledge to create innovative projects that bring happiness and value to others.
+
+As I continue to grow and develop as a professional, I am eager to take on new projects and take on the challenge of starting my own business, where I can use my skills and passion to create meaningful solutions for others.</h5>
+
+<p align="center"> 
+   Visitor count<br>
+   <img src="https://profile-counter.glitch.me/johnandreop/count.svg" /><br>
+   <img src="https://imgur.com/ATHWqvC.gif" />
+</p>
 
 - 🔭 I’m currently working on [Astra Developement](https://astrabots.xyz)
 
@@ -16,9 +25,31 @@
 <a href="https://discord.gg/sQQFSnQhdt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sQQFSnQhdt" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnandreopoulos&show_icons=true&locale=en&layout=compact" alt="johnandreopoulos" /></p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnandreopoulos&show_icons=true&locale=en" alt="johnandreopoulos" /></p>
+---
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=JohnAndreop&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JohnAndreop&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAndreop&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JohnAndreop&theme=discord&no-frame=true&no-bg=true&margin-w=4) -->
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/luckytarget) 
