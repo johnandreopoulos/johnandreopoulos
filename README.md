@@ -11,13 +11,9 @@ As I continue to grow and develop as a professional, I am eager to take on new p
    <img src="https://imgur.com/ATHWqvC.gif" />
 </p>
 
-- 🔭 I’m currently working on [Astra Developement](https://astrabots.xyz)
-
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 👯 I’m looking to collaborate on [Astra Development](https://astrabots.xyz)
-
-- 🤝 I’m looking for help with [Astra Development](https://astrabots.xyz)
+- I’m currently working on [Astra Developement](https://astrabots.xyz)
+- I’m looking to collaborate on [Astra Development](https://astrabots.xyz)
+- I’m looking for help with [Astra Development](https://astrabots.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
