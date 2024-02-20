@@ -1,25 +1,25 @@
-<h1 align="center">Hi there! 👋 I'm John Andreopoulos</h1>
+<h1 align="center">Hello, I'm John Andreopoulos 👋</h1>
 
-<p align="justify">I am a dedicated full-stack developer specializing in JavaScript, Node.js, HTML, and CSS. Constantly seeking new challenges, I am driven to expand my skillset and stay at the forefront of technology. Proficient in Java and always exploring new languages, I am committed to enhancing my capabilities as a developer.</p>
+<p align="justify">I am a dedicated Full-Stack Developer with expertise in JavaScript, Node.js, HTML, and CSS. My commitment to excellence drives me to constantly seek new challenges, expanding my skillset and staying at the forefront of technology. Proficient in Java and always exploring new languages, I am devoted to enhancing my capabilities as a developer.</p>
 
-<p align="justify">Beyond coding, my passion extends to artificial intelligence, where I actively explore opportunities to deepen my knowledge. I am not only focused on personal improvement but also on leveraging my skills to create innovative projects that bring value and joy to users.</p>
+<p align="justify">Beyond coding, my passion extends to artificial intelligence, where I actively explore opportunities to deepen my knowledge. My focus goes beyond personal improvement; I leverage my skills to create innovative projects that provide value and joy to users.</p>
 
-<p align="justify">As I continue to grow professionally, I am enthusiastic about taking on new projects and aspiring to establish my own business. I aim to utilize my skills and passion to develop meaningful solutions that make a positive impact.</p>
+<p align="justify">As I continue to grow professionally, I am enthusiastic about taking on new projects and aspire to establish my own business. My goal is to utilize my skills and passion to develop meaningful solutions that make a positive impact.</p>
 
 <p align="center"> 
-   <strong>Visitor count:</strong><br>
+   <strong>Visitor Count:</strong><br>
    <img src="https://profile-counter.glitch.me/johnandreop/count.svg" /><br>
    <img src="https://imgur.com/ATHWqvC.gif" />
 </p>
 
 <h3 align="left">Current Endeavors:</h3>
 <ul>
-  <li>Working on Astra Development https://astrabots.xyz</li>
-  <li>Open to collaboration on Astra Development https://astrabots.xyz</li>
-  <li>Seeking assistance with Astra Development https://astrabots.xyz</li>
+  <li>Contributing to Astra Development at [Astra Bots](https://astrabots.xyz)</li>
+  <li>Open to collaboration opportunities in Astra Development</li>
+  <li>Seeking assistance and partnerships for Astra Development</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://instagram.com/andreopoulos_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andreopoulos_" height="30" width="40" /></a>
   <a href="https://discord.gg/sQQFSnQhdt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sQQFSnQhdt" height="30" width="40" /></a>
@@ -46,7 +46,7 @@
 <h3 align="left">Random Dev Quote:</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
-<h3 align="left">Support My Work:</h3>
+<!--- <h3 align="left">Support My Work:</h3>
 <p align="left">
   <a href="https://paypal.me/luckytarget"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
-</p>
+</p> --->
