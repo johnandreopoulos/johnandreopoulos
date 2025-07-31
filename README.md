@@ -4,10 +4,6 @@
    Full-Stack Developer with expertise in JavaScript, Node.js, HTML, and CSS. Passionate about AI and continuously learning new technologies. Focused on delivering innovative solutions and adding value through my projects. Open to new challenges and entrepreneurial ventures.
 </p>
 
-<p align="center"> 
-   <strong>Visitor Count:</strong><br>
-   <img src="https://profile-counter.glitch.me/johnandreop/count.svg" alt="Visitor Count"/>
-</p>
 
 ### Current Projects
 - Contributing to [Astra Development](https://astrabots.xyz)
